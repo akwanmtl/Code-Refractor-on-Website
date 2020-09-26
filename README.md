@@ -13,3 +13,7 @@ GIVEN a webpage meets accessibility standards
 
 In this project, I learned the techniques of code refractor. I revamped the HTML tags to use semantic HTML and updated the CSS file. I also resolved the issue with links and including alternate text to images for accessibility.
 
+Link to the Github repository: https://github.com/akwanmtl/Code-Refractor-on-Website
+
+Link to the website: https://akwanmtl.github.io/Code-Refractor-on-Website/
+
