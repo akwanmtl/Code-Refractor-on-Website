@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*Styles for Header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +34,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Styles for Nav*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +52,8 @@ nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
-
+/*Styles for Banner*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/*Styles for Main Contents*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +79,6 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
 
 .contents article {
     margin-bottom: 20px;
@@ -93,6 +97,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*Styles for Aside - benefits*/
 
 .benefits {
     margin-right: 20px;
@@ -121,6 +127,7 @@ p {
     max-width: 150px;
 }
 
+/*Styles for Footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -129,5 +136,5 @@ footer {
 }
 
 footer h4 {
-    font-size: 25px;
+    font-size: 20px;
 }
