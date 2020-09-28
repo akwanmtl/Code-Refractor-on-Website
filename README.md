@@ -25,5 +25,4 @@ License badge: https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8#fi
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Copyright (c) [2020] [Annie Kwan]
