@@ -23,6 +23,8 @@ Tutorial of Website Accessibility: https://www.freecodecamp.org/learn/responsive
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 MIT License
 
 Copyright (c) [2020] [Annie Kwan]
