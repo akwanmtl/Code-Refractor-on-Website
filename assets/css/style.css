@@ -80,7 +80,7 @@ nav ul li {
     margin-left: 20px;
 }
 
-.contents article {
+.contents section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,11 +89,11 @@ nav ul li {
     color: #ffffff;
 }
 
-.contents article img {
+.contents section img {
     max-height: 200px;
 }
 
-.contents article h2 {
+.contents section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
