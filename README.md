@@ -19,9 +19,9 @@ Link to the website: https://akwanmtl.github.io/Code-Refractor-on-Website/
 
 ## Credits
 
-Tutorial on Website Accessibility: https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
-License badge link: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
-How to make emoji accessible: https://tink.uk/accessible-emoji/
+[Tutorial on Website Accessibility] https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
+[License badge link] https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+[How to make emoji accessible] https://tink.uk/accessible-emoji/
 
 ## License
 
