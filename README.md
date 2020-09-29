@@ -21,8 +21,10 @@ Link to the website: https://akwanmtl.github.io/Code-Refractor-on-Website/
 
 Tutorial on Website Accessibility: https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
 License badge link: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+How to make emoji accessible: https://tink.uk/accessible-emoji/
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Copyright (c) [2020] [Annie Kwan]
