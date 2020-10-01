@@ -80,6 +80,7 @@ nav ul li {
     margin-left: 20px;
 }
 
+/*Styles for Main Contents Section*/
 .contents section {
     margin-bottom: 20px;
     padding: 50px;
@@ -99,7 +100,6 @@ nav ul li {
 }
 
 /*Styles for Aside - benefits*/
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,6 +111,7 @@ nav ul li {
     background-color: #2589bd;
 }
 
+/*Styles for Aside sections*/
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
