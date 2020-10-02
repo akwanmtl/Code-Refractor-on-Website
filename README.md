@@ -11,8 +11,11 @@ GIVEN a webpage meets accessibility standards
 4. WHEN I view the heading attributes, THEN they fall in sequential order
 5. WHEN I view the title element, THEN I find a concise, descriptive title
 
-I was to ensure that the Website resembles to the following screenshot
+I was to ensure that the Website resembles to the following screenshot:
 ![Horiseon Webpage Screenshot](assets/images/01-html-css-git-homework-demo.png) 
+
+Here is a screenshot of the website after I finished with the code refraction:
+![Horiseon Webpage Screenshot](assets/images/01-html-css-git-homework-screenshot.png) 
 
 In this project, I learned the techniques of code refractor. I changed the HTML tags to use semantic HTML and updated the CSS file accordingly. I also resolved the issue with links and including alternate text to images for accessibility.
 
